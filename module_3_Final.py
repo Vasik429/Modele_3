@@ -28,7 +28,6 @@ def unpack_data_structure(data):
     return unpacked_list
 
 unpacked_data = unpack_data_structure(data_structure)
-print(unpacked_data)
 
 
 def sum_num (*args):
